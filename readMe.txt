@@ -1,6 +1,8 @@
 I implemented a very basic linux command shell.
-Compile with: ```gcc -o shell shell.c```
-Run with: ```./shell```
+Compile with: 
+```gcc -o shell shell.c```
+Run with: 
+```./shell```
 
 Features: 
 	-Excecution of binary commands
