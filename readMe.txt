@@ -1,11 +1,6 @@
-//-----Mertzanis Loukas-----
-//--------AM: 4457----------
-//-------Assignment 1-------
-//-----------Hy345----------
-
-I implemented a basic C command shell.
-Compile with: gcc -o shell shell.c
-Run with: ./shell
+I implemented a very basic linux command shell.
+Compile with: ```gcc -o shell shell.c```
+Run with: ```./shell```
 
 Features: 
 	-Excecution of binary commands
